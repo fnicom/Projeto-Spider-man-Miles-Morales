@@ -112,4 +112,27 @@ header {
 .nav-link:hover::after {
   height: 40px;
 }
+
+.nav-social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nav-social svg {
+  cursor: pointer;
+  margin-left: 16px;
+  width: 24px;
+}
+
+.nav-social svg path, .nav-social svg circle {
+  -webkit-transition: .7s ease;
+  transition: .7s ease;
+}
+
+.nav-social svg:hover path, .nav-social svg:hover circle {
+  fill: #F02A2F;
+  -webkit-transform: translate3d(0, -3px, 0);
+          transform: translate3d(0, -3px, 0);
+}
 /*# sourceMappingURL=style.css.map */
