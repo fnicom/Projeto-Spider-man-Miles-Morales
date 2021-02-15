@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
     <img alt="#FrontWeek​​ - Projeto Spider-man Miles Morales" title="" src="https://raw.githubusercontent.com/jeanoliveira92/frontweekspidermanmilesmorales/b1eeaeff5fc82e4ddb4aa16f7cff6fc49642bee8/src/img/logo.svg" width="250px" />
 </h1>
@@ -43,11 +42,3 @@ Projeto frontweb de uma webpage com UI design e motion design com o tema Spider-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/7xpmZjyxjpn9hDU8RZB7P4/Spider-man-Copy?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-=======
-# Projeto-Spider-man-Miles-Morales
-Projeto Spider-man Miles Morales
->>>>>>> 864cc128937191d6692fa7adb3c624ccc52f6368
