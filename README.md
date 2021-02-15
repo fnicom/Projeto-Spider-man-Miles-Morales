@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     <img alt="#FrontWeek​​ - Projeto Spider-man Miles Morales" title="" src="https://raw.githubusercontent.com/jeanoliveira92/frontweekspidermanmilesmorales/b1eeaeff5fc82e4ddb4aa16f7cff6fc49642bee8/src/img/logo.svg" width="250px" />
 </h1>
@@ -46,3 +47,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+=======
+# Projeto-Spider-man-Miles-Morales
+Projeto Spider-man Miles Morales
+>>>>>>> 864cc128937191d6692fa7adb3c624ccc52f6368
