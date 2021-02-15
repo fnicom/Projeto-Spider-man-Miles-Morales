@@ -17,6 +17,10 @@
   <img alt="Loading" src="https://raw.githubusercontent.com/jeanoliveira92/frontweekspidermanmilesmorales/main/src/img/screenshot.png" width="100%">
 </p>
 
+<p align="center">
+  <img alt="Loading" src="https://raw.githubusercontent.com/jeanoliveira92/frontweekspidermanmilesmorales/main/src/img/screenshot.gif" width="100%">
+</p>
+
 ##Preview: 
   
 [https://fnicom.github.io/Projeto-Spider-man-Miles-Morales/](https://fnicom.github.io/Projeto-Spider-man-Miles-Morales/)
